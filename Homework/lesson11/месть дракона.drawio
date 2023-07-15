@@ -1,0 +1,153 @@
+<mxfile host="app.diagrams.net" modified="2023-06-22T09:04:40.844Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="pXAyL3EYS5Biju1MhGe-" version="21.5.0" type="google">
+  <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-6" target="aNeKMRnIhnbiUNRT31wd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-6" value="Замок загадок" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="70" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-12" target="aNeKMRnIhnbiUNRT31wd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-12" target="aNeKMRnIhnbiUNRT31wd-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-12" value="Кімната з коридорами" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="380" width="90" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-17" target="aNeKMRnIhnbiUNRT31wd-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-17" target="aNeKMRnIhnbiUNRT31wd-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-17" value="Дракон загадує загадку" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="364" width="80" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-19" target="aNeKMRnIhnbiUNRT31wd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-19" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="240" y="205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="405.9949999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-21" value="На право" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="377.87" width="55" height="56.25" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-28" target="aNeKMRnIhnbiUNRT31wd-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-28" value="На ліво" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="378.12" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-32" target="aNeKMRnIhnbiUNRT31wd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-32" value="Відповідь правильна" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="660" y="374" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-33" target="aNeKMRnIhnbiUNRT31wd-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-33" value="Вихід із замку" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="381.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-35" target="aNeKMRnIhnbiUNRT31wd-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-35" value="Виграш&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="382.12" width="100" height="54.38" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-37" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="394.31" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-40" target="aNeKMRnIhnbiUNRT31wd-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-40" target="aNeKMRnIhnbiUNRT31wd-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-40" value="Відповідь не правильна" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="545" y="497.5" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-41" target="aNeKMRnIhnbiUNRT31wd-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-41" value="Ще одна загадка" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-43" target="aNeKMRnIhnbiUNRT31wd-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-43" value="Відповідь правильна" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="495" width="70" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-47" target="aNeKMRnIhnbiUNRT31wd-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-47" value="Відповідь не правильна" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="730" y="605" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-48" target="aNeKMRnIhnbiUNRT31wd-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-48" value="Дракон тебе з&#39;їдає" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="710" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-53" target="aNeKMRnIhnbiUNRT31wd-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-53" value="Програш" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="705" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-57" target="aNeKMRnIhnbiUNRT31wd-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-57" target="aNeKMRnIhnbiUNRT31wd-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-57" value="Відьма загадує загадку" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="366.25" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-59" target="aNeKMRnIhnbiUNRT31wd-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-59" value="Відповідь не правильна" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-62" target="aNeKMRnIhnbiUNRT31wd-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-62" value="Кімната з драконом" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="378.5" width="85" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aNeKMRnIhnbiUNRT31wd-65" target="aNeKMRnIhnbiUNRT31wd-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-65" value="Кімната з відьмою" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="376.12" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="830" y="380" as="targetPoint" />
+            <mxPoint x="-280" y="357.99" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-280" y="70" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aNeKMRnIhnbiUNRT31wd-76" value="Відповідь правильна" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="367.99" width="80" height="76.25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

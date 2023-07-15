@@ -1,0 +1,117 @@
+<mxfile host="app.diagrams.net" modified="2023-06-21T07:22:45.734Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_O3XNNJOCfaGGJvMjJaf" version="21.5.0" type="google">
+  <diagram name="Страница 1" id="RY51niYn_TZcuMJDe7rI">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-56" target="OTvSE7csXxkNkC1DVWBk-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-56" target="OTvSE7csXxkNkC1DVWBk-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-56" value="Якого улюбленця має користувач" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-57" target="OTvSE7csXxkNkC1DVWBk-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-57" value="Якщо має кота" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-59" target="OTvSE7csXxkNkC1DVWBk-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-59" value="Якщо кота немає" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-20" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-61" target="OTvSE7csXxkNkC1DVWBk-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="880" />
+              <mxPoint x="400" y="880" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-61" value="Коли вирішете завести улюбленця приходьте&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-65" target="OTvSE7csXxkNkC1DVWBk-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-65" target="OTvSE7csXxkNkC1DVWBk-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-65" value="Яка порода улюбленця" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-67" target="OTvSE7csXxkNkC1DVWBk-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-67" value="Якщо короткошерстна" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-71" target="OTvSE7csXxkNkC1DVWBk-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-71" value="якщо довгошерстна" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-73" target="OTvSE7csXxkNkC1DVWBk-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-73" value="Запропонуй обрати магазин із зоотоварами" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-75" target="OTvSE7csXxkNkC1DVWBk-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-75" target="OTvSE7csXxkNkC1DVWBk-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-75" value="Ви бажаєте отримати контакти найближчого гумера" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-77" target="OTvSE7csXxkNkC1DVWBk-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-77" value="Так" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-81" target="OTvSE7csXxkNkC1DVWBk-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-81" value="надайте адресу найближчої перукарні" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-83" target="OTvSE7csXxkNkC1DVWBk-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-83" value="Ні" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OTvSE7csXxkNkC1DVWBk-85" target="OTvSE7csXxkNkC1DVWBk-87">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-85" value="запропонуйте магазин по догляду за шерстю" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OTvSE7csXxkNkC1DVWBk-87" value="Кінець" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
